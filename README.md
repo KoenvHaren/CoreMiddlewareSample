@@ -18,6 +18,7 @@ Your application middleware is a set of daisy-chained services which handle logi
 Each middleware calls upon the next middleware as a rule.
 
 ![Middleware sample](https://www.tutorialsteacher.com/Content/images/core/middleware-1.png)
+
 (Source: https://www.tutorialsteacher.com/core/aspnet-core-middleware)
 
 
